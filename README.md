@@ -18,7 +18,7 @@ You can get this project in two ways:
 
 Clone or download this repository:
 
-git clone https://github.com/adirbella37/Tel-Aviv-Apartments-Data-Scraping.git
+https://github.com/adirbella37/Tel-Aviv-Apartments-Data-Scraping.git
 
 **Option 2 – Download as ZIP**
 
