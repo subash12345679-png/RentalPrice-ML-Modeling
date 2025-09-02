@@ -3,7 +3,7 @@ This project aims to predict apartment rental prices in Tel Aviv using machine l
 
 ## 📓 Notebook
 
-👉 [Open on nbviewer](https://nbviewer.org/url/https://github.com/adirbella37/Tel-Aviv-Apartments-Data-Scraping/blob/main/web_scraping.ipynb)
+👉 [Open on nbviewer](https://nbviewer.org/url/https://github.com/adirbella37/RentalPrice-ML-Modeling/blob/main/apartment_rent_prediction.ipynb)
 
 ## ⚙️ Technologies
 - Python — main programming language
